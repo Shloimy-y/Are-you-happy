@@ -5,7 +5,7 @@ body{
 
 }
 #div2{
-	color: brown;
+	color: white;
 	text-shadow: brown;
 	font-style: italic;
 	font-weight: bolder;
@@ -26,7 +26,7 @@ span{
 .boxmodel{
 	border: 5px solid black;
 	padding: 2px 3px 3px 3px;
-	margin: 200px 700px 100px 550px;
+	margin: 200px 700px 300px 550px;
 	height: 50px;
 	width: 200px;
 	background-color: white;
@@ -38,7 +38,7 @@ span{
 	transform: scale(1.5);
 }
 #div1{
-	color:  brown;
+	color:  white;
 }
 li{
 	list-style: none;
